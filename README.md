@@ -1,6 +1,8 @@
 # gcrq
 Growth charts regression quantiles with automatic smoothness estimation Use gcrq (quantregGrowth) With (In) R Software
 
+https://www.youtube.com/watch?v=AN1YoYhBtPk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
